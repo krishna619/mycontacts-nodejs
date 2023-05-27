@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out to the project owner:
 
-- Name: Krishna Sharma
+- Name: Krishna Chandhok
 - GitHub: [@krishna619](https://github.com/krishna619)
 - Email: krishnachandhok04@gmail.com
 
